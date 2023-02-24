@@ -4,7 +4,7 @@
   "description": "test-express-js",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon index.js",
+    "start": "nodemon index.js"
   },
   "author": "tuj",
   "license": "ISC",
@@ -18,6 +18,6 @@
     "uuid": "^9.0.0"
   },
   "devDependencies": {
-    "nodemon": "^2.0.7",
+    "nodemon": "^2.0.7"
   }
 }
